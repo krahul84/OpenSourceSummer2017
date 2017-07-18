@@ -1,4 +1,4 @@
-# OpenSourceSummer2017
+# ZipBike
 OpenSource Project developed for Summer 2017
 As a part of Open Source Project, we are developing an Android Application. The description of the project is as follows:
 
