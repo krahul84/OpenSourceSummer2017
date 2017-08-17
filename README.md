@@ -37,3 +37,9 @@ Technologies to be used:
 2. Min SDK: 21
 3. Min OS: Android 5.0 Lollipop
 
+Project URL : https://github.com/abhishektatke/ZipBike
+
+Contact Information:
+Abhishek Arun Tatke (a34@pdx.edu)
+Rahul Kumar (krahul@pdx.edu)
+
