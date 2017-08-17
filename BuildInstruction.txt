@@ -1,0 +1,36 @@
+Prerequisites for Build Instruction:
+1. Download JDK from
+      http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+	  
+2.Install the JDK and set the path for java.
+
+3. Download and Install Andriod Studio 
+      https://developer.android.com/studio/index.html
+
+Build Instruction for APK:
+
+1. First clone the repository
+   
+   git clone https://github.com/Shraddhaz/Photo-Scan-Summary
+   
+2. Import the project in Andriod Studio
+
+3. Clean the project
+
+4. Build the project on selecting 'Rebuild the project' option
+
+5. Click on generate Signed APK
+
+6. Create a new password by for generating APK.
+    Steps for creating password:
+	   Key Store Path : select the folder for storing key
+	   Key Store Password : type your desired password and then confirm.
+	   Key Alias : keep the default value
+	      Click Next
+		Build Type :release
+		Signature Versions: Select V1 and V2 both.
+		Click Finish
+		
+7.APK for installation in generated now.
+
+8.Install the APK on your desired Android device.
