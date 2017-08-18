@@ -48,6 +48,9 @@ User Manual Instructions: Please read the following document
 Technical Details and Report : Please find the technical details for the code 
     Link: https://github.com/abhishektatke/ZipBike/blob/master/ProjectReport.docx
     
+Installation Instructions: Please follows the steps defined in the following documents:
+   Link : https://github.com/abhishektatke/ZipBike/blob/master/BuildInstruction.txt
+    
 Build Instructions for importing project and generating APK : Please follow the steps defined in following documents:
    Link : https://github.com/abhishektatke/ZipBike/blob/master/BuildInstruction.txt
    
