@@ -37,6 +37,8 @@ Technologies to be used:
 2. Min SDK: 21
 3. Min OS: Android 5.0 Lollipop
 
+
+
 Project URL : https://github.com/abhishektatke/ZipBike
 
 License Information: Please check the below link to get the file license in this distribution. 
@@ -47,6 +49,11 @@ User Manual Instructions: Please read the following document
    
 Technical Details and Report : Please find the technical details for the code 
     Link: https://github.com/abhishektatke/ZipBike/blob/master/ProjectReport.docx
+    
+Installation Instructions: Please follows the steps defined in the following documents:
+   Link : https://github.com/abhishektatke/ZipBike/blob/master/Installation%20Instructions
+   
+ Download link: https://github.com/abhishektatke/ZipBike
     
 Build Instructions for importing project and generating APK : Please follow the steps defined in following documents:
    Link : https://github.com/abhishektatke/ZipBike/blob/master/BuildInstruction.txt
