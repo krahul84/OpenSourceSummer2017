@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\OpenSourceProject\\ZipBike\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\rayansh\\.android\\build-cache\\df41f72ee61836359333c8838c8f26a8f5a9ef5a\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\OpenSourceProject\\ZipBike\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\rayansh\\.android\\build-cache\\df41f72ee61836359333c8838c8f26a8f5a9ef5a\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\OpenSourceProject\\ZipBike\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\rayansh\\.android\\build-cache\\df41f72ee61836359333c8838c8f26a8f5a9ef5a\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\OpenSourceProject\\ZipBike\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\rayansh\\.android\\build-cache\\df41f72ee61836359333c8838c8f26a8f5a9ef5a\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\OpenSourceProject\\ZipBike\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\rayansh\\.android\\build-cache\\df41f72ee61836359333c8838c8f26a8f5a9ef5a\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\OpenSourceProject\\ZipBike\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\rayansh\\.android\\build-cache\\df41f72ee61836359333c8838c8f26a8f5a9ef5a\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\OpenSourceProject\\ZipBike\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\rayansh\\.android\\build-cache\\df41f72ee61836359333c8838c8f26a8f5a9ef5a\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\OpenSourceProject\\ZipBike\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\rayansh\\.android\\build-cache\\df41f72ee61836359333c8838c8f26a8f5a9ef5a\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\OpenSourceProject\\ZipBike\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\rayansh\\.android\\build-cache\\df41f72ee61836359333c8838c8f26a8f5a9ef5a\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\OpenSourceProject\\ZipBike\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\rayansh\\.android\\build-cache\\df41f72ee61836359333c8838c8f26a8f5a9ef5a\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]
