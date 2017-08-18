@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Copyright © 2017 Rahul Kumar, Abhishek Tatke-->
+
+<searchable
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="ZipBike"
+    android:hint="Search friend">
+</searchable>

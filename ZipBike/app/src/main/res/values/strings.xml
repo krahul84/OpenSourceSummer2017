@@ -1,0 +1,22 @@
+<!--Copyright © 2017 Rahul Kumar, Abhishek Tatke-->
+
+
+<resources>
+    <string name="app_name">ZipBike</string>
+    <string name="enter_button">RIDE</string>
+    <string name="price_button">Pricing Plans</string>
+    <string name="nearMe_button">Find me a Bike</string>
+    <string name="desc">A bit more about your plan:</string>
+    <string name="nerst">The nearest Bike Station is: </string>
+    <string name="others">Other nearby stations are: </string>
+    <string name="loctn">Find me a Bike Station</string>
+    <string name="price">Pricing Plans</string>
+    <string name="signUp_button">Ride!</string>
+    <string name="map_button">Show on map</string>
+    <string-array name="Plans">
+        <item>Single Ride</item>
+        <item>Day Pass</item>
+        <item>Annual Membership</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
