@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">ZipBike</string>
-    <string name="action_settings">Settings</string>
-    <string name="title_activity_menu">MenuActivity</string>
-    <string name="price_button">Price Menu</string>
-    <string name="nearMe_button">Locate Bike Hub</string>
-</resources>
