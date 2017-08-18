@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\OpenSourceProject\\ZipBike\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\launch_icon.png",
+        "source": "D:\\OpenSourceProject\\ZipBike\\app\\src\\main\\res\\mipmap-xxhdpi\\launch_icon.png"
+    },
+    {
+        "merged": "D:\\OpenSourceProject\\ZipBike\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\OpenSourceProject\\ZipBike\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

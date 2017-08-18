@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\OpenSourceProject\\ZipBike\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_location.xml",
+        "source": "D:\\OpenSourceProject\\ZipBike\\app\\src\\main\\res\\layout-land\\activity_location.xml"
+    },
+    {
+        "merged": "D:\\OpenSourceProject\\ZipBike\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_freebike.xml",
+        "source": "D:\\OpenSourceProject\\ZipBike\\app\\src\\main\\res\\layout-land\\activity_freebike.xml"
+    },
+    {
+        "merged": "D:\\OpenSourceProject\\ZipBike\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_price.xml",
+        "source": "D:\\OpenSourceProject\\ZipBike\\app\\src\\main\\res\\layout-land\\activity_price.xml"
+    },
+    {
+        "merged": "D:\\OpenSourceProject\\ZipBike\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_plan.xml",
+        "source": "D:\\OpenSourceProject\\ZipBike\\app\\src\\main\\res\\layout-land\\activity_plan.xml"
+    },
+    {
+        "merged": "D:\\OpenSourceProject\\ZipBike\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_hubid.xml",
+        "source": "D:\\OpenSourceProject\\ZipBike\\app\\src\\main\\res\\layout-land\\activity_hubid.xml"
+    },
+    {
+        "merged": "D:\\OpenSourceProject\\ZipBike\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_menu.xml",
+        "source": "D:\\OpenSourceProject\\ZipBike\\app\\src\\main\\res\\layout-land\\activity_menu.xml"
+    },
+    {
+        "merged": "D:\\OpenSourceProject\\ZipBike\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_splash.xml",
+        "source": "D:\\OpenSourceProject\\ZipBike\\app\\src\\main\\res\\layout-land\\activity_splash.xml"
+    }
+]
