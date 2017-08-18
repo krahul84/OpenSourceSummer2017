@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:background="@drawable/back">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+        <TextView
+            android:id="@+id/Pricing"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="12dp"
+            android:text="@string/price"
+            android:textStyle="bold"
+            android:textSize="15sp"
+            />
+            <ImageButton
+                android:id="@+id/price_button"
+                android:layout_width="70dip"
+                android:layout_height="70dip"
+                android:background="@drawable/prices"
+                android:text="@string/price_button" />
+
+
+        <!---->
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+        <TextView
+            android:id="@+id/Locatn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="18dp"
+            android:text="@string/loctn"
+            android:textStyle="bold"
+            android:textSize="15sp"
+            />
+        <ImageButton
+            android:id="@+id/nearMe_button"
+            android:layout_width="70dip"
+            android:layout_height="70dip"
+            android:background="@drawable/location"
+            android:text="@string/price_button" />
+
+
+        <!---->
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/free"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="12dp"
+            android:text="Free Bikes by Station"
+            android:textStyle="bold"
+            android:textSize="15sp"
+            />
+        <ImageButton
+            android:id="@+id/hubId_button"
+            android:text="Free Bikes"
+            android:layout_width="70dip"
+            android:layout_height="70dip"
+
+            android:background="@drawable/free"/>
+
+
+        <!---->
+    </LinearLayout>
+
+
+</LinearLayout>
