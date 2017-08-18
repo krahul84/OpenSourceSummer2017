@@ -1,3 +1,10 @@
+
+# Copyright (c) 2017 Rahul Kumar and Abhishek Tatke
+# This code is available under the "MIT License".
+# Please see the file LICENSE in this distribution
+# for license terms
+
+
 Installation Instruction:
 
 1. Download JDK from
